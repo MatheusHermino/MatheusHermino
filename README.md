@@ -22,4 +22,4 @@ Sou um desenvolvedor em formação, cursando Análise e Desenvolvimento de Siste
 
 #### 📫 Como me encontrar
 <a href="https://www.linkedin.com/in/matheus-herminio-0929a1392" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusherminio45@gmail.com)
+<a href="https://www.instagram.com/nztheuss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
