@@ -21,5 +21,5 @@ Sou um desenvolvedor em formação, cursando Análise e Desenvolvimento de Siste
 - Participando de processos seletivos e dinâmicas para atuar no mercado de Tecnologia.
 
 #### 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/matheus-herminio-0929a1392](https://www.linkedin.com/in/matheus-herminio-0929a1392/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/matheus-herminio-0929a1392/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusherminio45@gmail.com)
